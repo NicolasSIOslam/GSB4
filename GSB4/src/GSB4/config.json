@@ -1,0 +1,10 @@
+{
+  "AppSettings": {
+    "SiteTitle": "GSB4"
+  },
+  "Data": {
+    "DefaultConnection": {
+      "ConnectionString": "Server=(localdb)\\mssqllocaldb;Database=aspnet5-GSB4-1e67ab00-feb1-449a-af01-bcbe29b395f2;Trusted_Connection=True;MultipleActiveResultSets=true"
+    }
+  }
+}
